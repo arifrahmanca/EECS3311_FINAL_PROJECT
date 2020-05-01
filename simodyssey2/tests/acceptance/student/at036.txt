@@ -1,0 +1,14 @@
+--Testing wormhole, pass, status in play mode
+
+play
+
+move(E)
+
+move(SE)
+
+wormhole
+
+pass
+
+status
+

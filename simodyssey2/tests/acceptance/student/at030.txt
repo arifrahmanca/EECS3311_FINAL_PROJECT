@@ -1,0 +1,9 @@
+test(3,15,30,40,70)
+
+move(E)
+land
+liftoff
+land
+abort
+move(S)
+play

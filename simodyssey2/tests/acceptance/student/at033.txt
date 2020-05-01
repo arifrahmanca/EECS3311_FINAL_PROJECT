@@ -1,0 +1,18 @@
+--Testing liftoff, land, status in test mode
+
+test(3,15,30,40,70)
+
+
+move(S)
+
+move(S)
+
+land
+
+liftoff
+
+move(S)
+
+wormhole
+
+status

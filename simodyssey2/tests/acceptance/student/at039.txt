@@ -1,0 +1,14 @@
+--Testing error for liftoff, wormhole in test mode
+
+test(3,15,30,40,70)
+
+
+move(N)
+
+liftoff
+
+wormhole
+
+move(SW)
+
+wormhole

@@ -1,0 +1,15 @@
+--Testing wormhole, pass, status in test mode
+
+test(3,15,30,40,70)
+
+
+move(E)
+
+move(SE)
+
+wormhole
+
+pass
+
+status
+

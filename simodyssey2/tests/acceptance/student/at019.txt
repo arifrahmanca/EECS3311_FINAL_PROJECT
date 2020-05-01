@@ -1,0 +1,12 @@
+-- Tests error conditions.
+
+move(E)
+
+play
+
+play
+
+wormhole
+
+land
+

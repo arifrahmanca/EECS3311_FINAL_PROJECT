@@ -1,0 +1,5 @@
+play
+move(N)
+wormhole
+move(SW)
+land

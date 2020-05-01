@@ -1,0 +1,11 @@
+--Testing error for land, wormhole in play mode
+
+play
+
+move(E)
+
+land
+
+move(E)
+
+wormhole

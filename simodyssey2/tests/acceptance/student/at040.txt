@@ -1,0 +1,13 @@
+--Testing error for liftoff, wormhole in play mode
+
+play
+
+move(N)
+
+liftoff
+
+wormhole
+
+move(SW)
+
+wormhole

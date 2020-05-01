@@ -1,0 +1,8 @@
+play
+move(SE)
+status
+move(SE)
+status
+move(SE)
+status
+move(SE)

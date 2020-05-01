@@ -1,0 +1,12 @@
+--Testing error for land, wormhole in test mode
+
+test(3,15,30,40,70)
+
+
+move(E)
+
+land
+
+move(E)
+
+wormhole

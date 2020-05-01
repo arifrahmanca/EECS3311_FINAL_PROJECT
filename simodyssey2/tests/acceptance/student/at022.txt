@@ -1,0 +1,6 @@
+-- Tests losing condition in test mode (lose by out of life due to fuel).
+test(3,15,30,40,70)
+
+move(S)
+move(E)
+move(S)

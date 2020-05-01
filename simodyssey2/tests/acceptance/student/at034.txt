@@ -1,0 +1,17 @@
+--Testing liftoff, land, status in play mode
+
+play
+
+move(S)
+
+move(S)
+
+land
+
+liftoff
+
+move(S)
+
+wormhole
+
+status

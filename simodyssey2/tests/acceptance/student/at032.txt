@@ -1,0 +1,11 @@
+--Testing wormhole, land in play mode
+
+play
+
+move(NW)
+
+wormhole
+
+move(SW)
+
+land

@@ -1,0 +1,8 @@
+status
+play
+status
+move(N)
+status
+wormhole
+status
+abort

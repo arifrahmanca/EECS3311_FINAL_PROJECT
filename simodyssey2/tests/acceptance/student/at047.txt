@@ -1,0 +1,8 @@
+play
+move(S)
+move(S)
+move(S)
+move(S)
+
+
+

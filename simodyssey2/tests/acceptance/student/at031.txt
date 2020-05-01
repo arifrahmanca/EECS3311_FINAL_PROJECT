@@ -1,0 +1,6 @@
+test(3,15,30,40,70)
+
+move(SE)
+move(S)
+land
+abort

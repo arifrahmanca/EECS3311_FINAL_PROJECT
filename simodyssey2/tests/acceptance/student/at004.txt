@@ -1,0 +1,9 @@
+play
+move(N)
+abort
+play
+move(N)
+abort
+play
+move(N)
+abort
